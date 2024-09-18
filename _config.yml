@@ -1,0 +1,28 @@
+# Site settings
+title: Mariam Bouzidi - Data Science Engineering Portfolio
+description: Welcome to my portfolio! I am a Data Science Engineering student skilled in machine learning, data visualization, and business intelligence. This site showcases my projects, professional experience, and technical expertise. Feel free to explore my work, and let’s connect for collaborations or internship opportunities.
+baseurl: "" # Don't change this if you're deploying to the root of your GitHub Pages
+url: "https://BouzidiMariam.github.io" # Your website URL
+
+# Build settings
+theme: minima # Change this to another theme if you're not using minima
+plugins:
+  - jekyll-feed
+
+# Author information
+author:
+  name: Bouzidi Mariam
+  email: mariam.bouzidi@etudiant-fst.utm.tn
+
+# Optional settings for social media links (if your theme supports it)
+social:
+  github: hhttps://BouzidiMariam.github.io
+  linkdin: https://www.linkedin.com/in/mariam-bouzidi
+
+# Markdown settings (optional)
+markdown: kramdown
+kramdown:
+  input: GFM # Enables GitHub-flavored markdown
+
+# Future post settings (if you want to enable future posts)
+future: true
