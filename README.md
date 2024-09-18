@@ -1,5 +1,4 @@
 # Mariam Bouzidi
-
 **Data Science Engineering Student**  
 mariambouzidi70@gmail.com | [LinkedIn](https://www.linkedin.com/in/mariam-bouzidi) | [Portfolio](https://BouzidiMariam.github.io)
 
@@ -31,11 +30,11 @@ I am a passionate **Data Science Engineering student** with hands-on experience 
 ### Machine Learning Intern | Smartovate | Summer 2024
 - Created a machine learning model for candidate-position matching using Python and NLP techniques.
 
-### Web Developer Intern | FCIT | Summer 2023
-- Developed a web application for managing training and consulting services using Angular, NodeJS, and PostgreSQL.
-
 ### Java Developer Intern | SOTETEL | Summer 2023
 - Developed a Java and MongoDB application for managing the security of electronic systems.
+
+### Web Developer Intern | FCIT | Summer 2022
+- Developed a web application for managing training and consulting services using Angular, NodeJS, and PostgreSQL.
 
 ---
 
@@ -45,9 +44,9 @@ I am a passionate **Data Science Engineering student** with hands-on experience 
 - **Covid-19 Prediction Model**: Built machine learning models to predict Covid-19 cases using Python.
 - **Fraud Detection**: Implemented K-NN algorithm to detect fraud in bank transactions.
 - **Pacman Game**: Applied A* algorithm to create AI for the classic Pacman game using Python.
-- **Compiler**: Developed lexical and syntax analyzers using C and Java.
 - **Convolutional Autoencoder**: Created an autoencoder using TensorFlow and Keras for image reconstruction.
 - **Q-learning Pathfinding**: Trained an AI agent using Q-learning to optimize navigation in a grid environment.
+- **Compiler**: Developed lexical and syntax analyzers using C and Java.
 
 ---
 
@@ -59,6 +58,7 @@ I am a passionate **Data Science Engineering student** with hands-on experience 
 
 - **Integrated Pre-Engineering Degree**  
   *Faculty of Science of Tunis-El Manar* | 2020 – 2022
+  Coursework: Mathematics,Physics,Programming Languages
 
 - **Baccalaureate in Mathematics**  
   *Teboursouk-Beja, Tunisia* | 2020 | Graduated with Honors
@@ -67,18 +67,21 @@ I am a passionate **Data Science Engineering student** with hands-on experience 
 
 ## Certifications
 
-- **Microsoft Power BI Data Analyst** (Coursera)  
+-  **Microsoft DP-900**  
 - **Microsoft AI-900**  
 - **AWS Academy Cloud Foundations**  
 - **IBM Machine Learning with Python** (Coursera)  
 - **Introduction to Git and GitHub** (Coursera)
+- **Microsoft Power BI Data Analyst** (Coursera)  
+-**Ilts** 7/9 C1 
+
 
 ---
 
 ## Social Work
 
-- **English Teacher** | UN Volunteering, Turkey  
-- **Founder** | Tech Girls  
+- **English Teacher Volunteering, Turkey**
+- **Founder Tech Girls Association** 
 - **GDSC Logistic Manager**  
 - **Spark Media Manager**
 
