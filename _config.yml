@@ -1,8 +1,3 @@
-# Site settings
-title: Mariam Bouzidi - Data Science Engineering Portfolio
-description: Welcome to my portfolio! I am a Data Science Engineering student skilled in machine learning, data visualization, and business intelligence. This site showcases my projects, professional experience, and technical expertise. Feel free to explore my work, and let’s connect for collaborations or internship opportunities.
-
-
 # Build settings
 theme: minima # Change this to another theme if you're not using minima
 plugins:
