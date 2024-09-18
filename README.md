@@ -73,7 +73,7 @@ I am a passionate **Data Science Engineering student** with hands-on experience 
 - **IBM Machine Learning with Python** (Coursera)  
 - **Introduction to Git and GitHub** (Coursera)
 - **Microsoft Power BI Data Analyst** (Coursera)  
--**Ilts** 7/9 C1 
+- **Ilts** 7/9 C1 
 
 
 ---
