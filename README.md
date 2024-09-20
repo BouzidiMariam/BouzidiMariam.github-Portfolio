@@ -40,7 +40,9 @@ I am a passionate **Data Science Engineering student** with hands-on experience 
 
 ## Academic Projects
 
-- **Natural Language Processing Chat Bot**: Used LSTM and NLP to translate and summarize documents.
+### 1. [Multilingual Chatbot using NLP and Neural Networks](./MultilingualChatbot):
+  This chatbot uses NLP and neural networks for multilingual interaction, leveraging the Google Translator API for translation and a neural network for intent classification. Click here for results and visuals.
+
 - **Covid-19 Prediction Model**: Built machine learning models to predict Covid-19 cases using Python.
 - **Fraud Detection**: Implemented K-NN algorithm to detect fraud in bank transactions.
 - **Pacman Game**: Applied A* algorithm to create AI for the classic Pacman game using Python.
