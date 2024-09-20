@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+keras
+nltk
+googletrans==4.0.0-rc1
