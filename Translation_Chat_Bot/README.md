@@ -18,13 +18,20 @@ The chatbot uses NLP techniques to process text and neural networks to classify 
 - Neural network-based classification for intelligent responses.
 - Web interface built using Streamlit.
 
+  
+## Project Files
+- `app.py`: Contains the main logic for the Streamlit web interface.
+- `model.py`: Contains the code for building and training the neural network using Keras.
+- `requirements.txt`: Lists all the dependencies required to run the project.
+
 ## How to Run
 1. Clone the repository.
 2. Install the dependencies using `pip install -r requirements.txt`.
 3. Run the Streamlit app: `streamlit run app.py`.
 
-## Results/Visuals
-- (Add visuals or screenshots of the chatbot interface and results)
+## Results and Visuals
+For more details about the project, including screenshots, model architecture, and performance metrics, refer to the [project results and visuals PDF](./chatbot.pdf).
+
 
 ## Future Improvements
 - Add more languages.
