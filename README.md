@@ -43,12 +43,11 @@ I am a passionate **Data Science Engineering student** with hands-on experience 
 ### 1. [Multilingual Chatbot using NLP and Neural Networks](./MultilingualChatbot):
   This chatbot uses NLP and neural networks for multilingual interaction.
 
-### 2. [Reinforcement Learning Project](./ReinforcementLearning)
-This project explores reinforcement learning concepts, including Markov Decision Processes (MDPs), Q-learning, SARSA, and Policy Gradient methods. 
+### 2. [Reinforcement Learning Project(Q-learning Pathfinding)](./ReinforcementLearning)
+This project explores reinforcement learning concepts, including Markov Decision Processes (MDPs), Q-learning, SARSA, and Policy Gradient methods. Then,it Trains an AI agent using Q-learning to optimize navigation in a grid environment.
 - **Fraud Detection**: Implemented K-NN algorithm to detect fraud in bank transactions.
 - **Pacman Game**: Applied A* algorithm to create AI for the classic Pacman game using Python.
 - **Convolutional Autoencoder**: Created an autoencoder using TensorFlow and Keras for image reconstruction.
-- **Q-learning Pathfinding**: Trained an AI agent using Q-learning to optimize navigation in a grid environment.
 - **Compiler**: Developed lexical and syntax analyzers using C and Java.
 
 ---
