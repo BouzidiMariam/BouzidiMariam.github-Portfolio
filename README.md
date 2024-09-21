@@ -43,7 +43,8 @@ I am a passionate **Data Science Engineering student** with hands-on experience 
 ### 1. [Multilingual Chatbot using NLP and Neural Networks](./MultilingualChatbot):
   This chatbot uses NLP and neural networks for multilingual interaction.
 
-- **Covid-19 Prediction Model**: Built machine learning models to predict Covid-19 cases using Python.
+### 2. [Reinforcement Learning Project](./ReinforcementLearning)
+This project explores reinforcement learning concepts, including Markov Decision Processes (MDPs), Q-learning, SARSA, and Policy Gradient methods. 
 - **Fraud Detection**: Implemented K-NN algorithm to detect fraud in bank transactions.
 - **Pacman Game**: Applied A* algorithm to create AI for the classic Pacman game using Python.
 - **Convolutional Autoencoder**: Created an autoencoder using TensorFlow and Keras for image reconstruction.
