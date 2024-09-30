@@ -41,7 +41,7 @@ I am a passionate **Data Science Engineering student** with hands-on experience 
 ## Academic Projects
 
 ### 1. [Multilingual Chatbot using NLP and Neural Networks](./MultilingualChatbot):
-  This chatbot uses NLP and neural networks for multilingual interaction.
+ This chatbot uses NLP and neural networks for multilingual interaction, leveraging the Google Translator API for translation and a neural network for intent classification.
 
 ### 2. [Reinforcement Learning Project(Q-learning Pathfinding)](./ReinforcementLearning)
 This project explores reinforcement learning concepts, including Markov Decision Processes (MDPs), Q-learning, SARSA, and Policy Gradient methods. Then,it Trains an AI agent using Q-learning to optimize navigation in a grid environment.
