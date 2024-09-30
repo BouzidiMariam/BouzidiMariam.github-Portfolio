@@ -45,7 +45,8 @@ I am a passionate **Data Science Engineering student** with hands-on experience 
 
 ### 2. [Reinforcement Learning Project(Q-learning Pathfinding)](./ReinforcementLearning)
 This project explores reinforcement learning concepts, including Markov Decision Processes (MDPs), Q-learning, SARSA, and Policy Gradient methods. Then,it Trains an AI agent using Q-learning to optimize navigation in a grid environment.
-- **Fraud Detection**: Implemented K-NN algorithm to detect fraud in bank transactions.
+### 3. [Machine Learning for Metaverse Transactions](./MetaverseMLProject)
+This project involves a machine learning application using Python and Streamlit to classify transaction risks in the Metaverse into three categories: low, moderate, and high risk. 
 - **Pacman Game**: Applied A* algorithm to create AI for the classic Pacman game using Python.
 - **Convolutional Autoencoder**: Created an autoencoder using TensorFlow and Keras for image reconstruction.
 - **Compiler**: Developed lexical and syntax analyzers using C and Java.
