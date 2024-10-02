@@ -51,7 +51,6 @@ This project involves a machine learning application using Python and Streamlit 
 ### 4. [Image Compression Using a Convolutional Autoencoder](./ImageCompression)
 This project demonstrates how to use a convolutional autoencoder for compressing and reconstructing facial images, reducing their dimensionality while retaining key features. 
 - **Pacman Game**: Applied A* algorithm to create AI for the classic Pacman game using Python.
-- **Convolutional Autoencoder**: Created an autoencoder using TensorFlow and Keras for image reconstruction.
 - **Compiler**: Developed lexical and syntax analyzers using C and Java.
 
 ---
